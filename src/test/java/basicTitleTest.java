@@ -29,7 +29,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 public class basicTitleTest {
 	
 	//URL to visit
-	public String QWE="http://demo5.jx-staging.acn-atcp.com/";
+	public String QWE="demo5.jx.staging.atcp.com"
 
 	//Title to check
 	public String QWE1="demo5.jx-staging.acn-atcp.com";
