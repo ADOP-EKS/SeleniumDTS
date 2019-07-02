@@ -29,10 +29,10 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 public class basicTitleTest {
 	
 	//URL to visit
-	public String QWE="http://tomcat:8080/CurrencyConverter-1/";
+	public String QWE="http://demo5.jx-staging.acn-atcp.com/";
 
 	//Title to check
-	public String QWE1="Currency Converter";
+	public String QWE1="demo5.jx-staging.acn-atcp.com";
 	public String nodeURL = "http://selenium-hub:4444/wd/hub";
 
 	public static void main(String[] args){
